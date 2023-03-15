@@ -1,0 +1,52 @@
+{
+  "[data].js -> ../components/Faqs/index": {
+    "id": "[data].js -> ../components/Faqs/index",
+    "files": [
+      "static/chunks/components_Faqs_index_js.js"
+    ]
+  },
+  "[data].js -> ../components/Knowmore": {
+    "id": "[data].js -> ../components/Knowmore",
+    "files": [
+      "static/chunks/components_Knowmore_index_js.js"
+    ]
+  },
+  "[data].js -> ../components/LoadingScreen/loadingScreen": {
+    "id": "[data].js -> ../components/LoadingScreen/loadingScreen",
+    "files": []
+  },
+  "[data].js -> ../components/Maincategory/Maincategorymobile": {
+    "id": "[data].js -> ../components/Maincategory/Maincategorymobile",
+    "files": [
+      "static/chunks/components_Maincategory_Maincategorymobile_js.js"
+    ]
+  },
+  "[data].js -> ../components/Maincategory/maincategory": {
+    "id": "[data].js -> ../components/Maincategory/maincategory",
+    "files": [
+      "static/chunks/components_Maincategory_maincategory_js.js"
+    ]
+  },
+  "[data].js -> ../components/Preferedservices/Preferedservices": {
+    "id": "[data].js -> ../components/Preferedservices/Preferedservices",
+    "files": [
+      "static/chunks/components_Preferedservices_Preferedservices_js.js"
+    ]
+  },
+  "[data].js -> ../components/Serving": {
+    "id": "[data].js -> ../components/Serving",
+    "files": [
+      "static/chunks/components_Serving_index_js.js"
+    ]
+  },
+  "[data].js -> ../components/Slider/pageSlider": {
+    "id": "[data].js -> ../components/Slider/pageSlider",
+    "files": [
+      "static/chunks/components_Slider_pageSlider_js.js"
+    ]
+  },
+  "index.js -> ../components/Header": {
+    "id": "index.js -> ../components/Header",
+    "files": []
+  }
+}
